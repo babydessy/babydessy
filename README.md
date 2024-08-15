@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @babydessy
 - 👀 I’m interested in cybersecurity and ethical hacking 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
